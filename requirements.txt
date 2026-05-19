@@ -1,0 +1,3 @@
+streamlit
+google_genai
+python_docx
